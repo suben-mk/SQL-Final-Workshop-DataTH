@@ -1,7 +1,7 @@
 # SQL Final Workshop - Intro to Data Coding 2024 (DataTH)
 **SQL Final Workshop** เป็น Workshop สุดท้ายของคอร์ส Intro to Data Coding 2024 ในส่วนของ SQL (Structured Query Language) ซึ่งจะจำลองสถาณการณ์ทำงานจริง โดยจะได้รับ Requirement จากทีมนึงในองกรค์ (กระต่ายสั่งงาน)
 
-![image](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/e7882742-fe12-41b5-a44a-798b2238cf7a)
+![image](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/0bdf73e1-2ec7-41b7-9b6f-3848fd57d5fe)
 _Requirement จากทีมกระต่ายสั่งงาน_
 
 ![image](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/01086c70-cc62-48ee-8f70-6d3bf67ef456)
@@ -31,3 +31,13 @@ _Entity Relationship Diagrams (ER Diagrams)_
       * มีข้อมูล dubplicate คอลัมน์ Product_ID และ Product_Name ของวันที่ 2024-05-04
 
         ![image](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/d6f83102-f118-4dab-adc0-58743440aaba)
+
+2. วางแผนผังการ Query ข้อมูล
+
+   ![แผนลำดับการทำ SQL](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/bb559495-dbc4-4d13-a068-3f9c7da2454f)
+   _Credit ครูผู้สอน SQL : Gle Chawankorn_
+
+3. Query ข้อมูล [_**SQL Final Workshop - Intro to Data Coding 2024.sql**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/SQL%20Final%20Workshop%20-%20Intro%20to%20Data%20Coding%202024.sql)
+
+## Output
+ผลลัพธ์ Dataset ที่ Query ออกมาตาม Requirement [_**Sales_data_for_Superstore_team_2months.csv**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/Sales_data_for_Superstore_team_2months.csv)
