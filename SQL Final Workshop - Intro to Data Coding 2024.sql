@@ -107,6 +107,4 @@ SELECT Order_ID FROM has_nagative_value_and_sum_per_order_is_zero
 ;
 
 /* Note : 
-        sales_THB บางบรรทัดจะเป็น null เพราะใน exchange_master ไม่มีมี value date ครบเหมือนที่ transaction มี
-        นี่จึงเป็นเหตุผลที่เราควร left join เพราะเราอยากเก็บข้อมูล transaction ไว้ทุกบรรทัดเหมือนเดิม  
-        ในขณะที่เทเบิลที่เอามา join ถ้าจอยกันไม่เจอก็ไม่เป็นไร ให้ขึ้นว่า null ไว้ */
+        sales_THB บางบรรทัดจะเป็น null เนื่องจากใน exchange_master ไม่มีข้อมูล date ครบเหมือนที่ Trans_table_compact มี*/
