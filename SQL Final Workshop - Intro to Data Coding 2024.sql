@@ -7,7 +7,7 @@ REQUIREMENT
 
 • Final Data to use including: order_id, order_date, region, country, customer_id, customer_name, segment
                                 ,day_to_ship,product_ID,product_category,product_subcategory
-                                ,quantity, sales_USD, sales_THB
+                                ,quantity, sales_THB
 
 • Data between [15 MAR 2023, 3 MAY 2024]
 • File name : Sales_data_for_Superstore_team_2months
