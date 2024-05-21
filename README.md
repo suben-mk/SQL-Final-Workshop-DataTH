@@ -41,3 +41,6 @@ _Entity Relationship Diagrams (ER Diagrams)_
 
 ## Output
 ผลลัพธ์ Dataset ที่ Query ออกมาตาม Requirement [_**Sales_data_for_Superstore_team_2months.csv**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/Sales_data_for_Superstore_team_2months.csv)
+
+## Note : 
+คอลัมน์ sales_THB บางบรรทัดจะเป็น null เนื่องจากใน exchange_master ไม่มีข้อมูล date ครบเหมือนที่ Trans_table_compact มี
