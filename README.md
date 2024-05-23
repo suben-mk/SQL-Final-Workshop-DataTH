@@ -37,7 +37,7 @@ _Entity Relationship Diagrams (ER Diagrams)_
    ![แผนลำดับการทำ SQL](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/bb559495-dbc4-4d13-a068-3f9c7da2454f)
    _Credit ครูผู้สอน SQL : Gle Chawankorn_
 
-3. Query ข้อมูล [_**SQL Final Workshop - Intro to Data Coding 2024.sql**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/SQL%20Final%20Workshop%20-%20Intro%20to%20Data%20Coding%202024.sql)
+3. SQL script และ process ทั้งหมด [_**SQL Final Workshop - Intro to Data Coding 2024.sql**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/SQL%20Final%20Workshop%20-%20Intro%20to%20Data%20Coding%202024.sql)
 
 ## Output
 ผลลัพธ์ Dataset ที่ Query ออกมาตาม Requirement [_**Sales_data_for_Superstore_team_2months.csv**_](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/blob/main/Sales_data_for_Superstore_team_2months.csv)
