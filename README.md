@@ -1,4 +1,6 @@
-# SQL Final Workshop - Intro to Data Coding 2024 (DataTH)
+# SQL Final Workshop
+_Intro to Data Coding 2024 by DataTH_
+
 **SQL Final Workshop** เป็น Workshop สุดท้ายของคอร์ส Intro to Data Coding 2024 ในส่วนของ SQL (Structured Query Language) ซึ่งจะจำลองสถาณการณ์ทำงานจริง โดยจะได้รับ Requirement จากทีมนึงในองกรค์ (กระต่ายสั่งงาน)
 
 ![image](https://github.com/suben-mk/SQL-Final-Workshop-DataTH/assets/89971741/0bdf73e1-2ec7-41b7-9b6f-3848fd57d5fe)
